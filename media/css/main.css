@@ -94,12 +94,17 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    /* flex-direction: column; */
 }
 
 .section>a {
     color: white;
     font-weight: bold;
+}
+
+.section>img {
+    padding: 20px;
+    margin: 20px;
 }
 
 .button {
