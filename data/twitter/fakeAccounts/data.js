@@ -38,6 +38,7 @@ const next = () => {
         }
     }
 }
+next();
 const prev = () => {
     if (index > 0) {
         index--;
