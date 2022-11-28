@@ -4,12 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Live Fact Checker</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="author" content="Chauhan Pruthviraj">
     <meta name="owner" content="Chauhan Pruthviraj">
     <meta name="designer" content="Chauhan Pruthviraj">
     <meta name="web-app-capable" content="yes">
     <meta name="theme-color" content="black">
+    <meta name="robots" content="index/follow">
     <link rel="stylesheet" href="media/css/main.css" type="text/css">
 </head>
 
@@ -23,6 +24,7 @@
         </div>
     </header>
     <nav class="nav">
+        <button onclick="load(lfc.about); nav('close')">About</button>
         <button onclick="nav('close')">close</button>
     </nav>
     <main class="main">
