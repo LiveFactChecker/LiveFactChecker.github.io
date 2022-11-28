@@ -1,5 +1,6 @@
 const lfc = {
     about: "<h2>about Us </h2> <p>Live Fact Checker is a website that checks facts and exposes Fake Twitter Account / Propaganda and misleading people. we are trying to give everyone accurate and pure content </p> <p>some Fake Twitter Account are spreading false information with fake profile. we expose them with evidences and find truth.</p> <p>exposing terrorists and traitors is the main goal of this website</p>",
+    contact: "<h2>Contact Us </h2> <p>if you have some information that you think should be shared to aware people then send us on email  <a href='mailto:livefactchecker@protonmail.com'>livefactchecker@protonmail.com</a> </p> <p> we assume that you will send us accurate information with evidence so we can make news and we don't waste our time to investigate information and source much </p> <p>follow us on Twitter : <a href='https://twitter.com/livefactcheker'>@LiveFactchecker</a> </p>",
 };
 
 const data = [
