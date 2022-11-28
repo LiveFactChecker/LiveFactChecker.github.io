@@ -93,6 +93,11 @@
     padding: 20px;
 }
 
+.section>a {
+    color: white;
+    font-weight: bold;
+}
+
 .button {
     height: 50px;
     width: 100%;
