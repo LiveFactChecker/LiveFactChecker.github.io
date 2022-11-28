@@ -1,1 +1,0 @@
-import { datas } from "../../../data/fakeAccount/2022/november/data";
